@@ -1,0 +1,39 @@
+# Virtual muhit
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment (MUHIM - tokenlar va parollar)
+.env
+.env.local
+.env.production
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Setup skriptlar (faqat local uchun)
+setup_*.py
+write_*.py
+check*.py
+
+# PyCharm
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Test fayllar
+check.py
+check2.py
